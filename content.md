@@ -1,23 +1,23 @@
-## ನಮಸ್ಕಾರ (Namaste), I am [Adesh Nalpet](http://pyblog.xyz/?ref=github)
+**This is a mock repository.** 
 
-[![YouTube Badge](https://img.shields.io/badge/-@Adesh%20Nalpet-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCPwzBe0jCOpEpl8rCOHKLGQ)](https://www.youtube.com/channel/UCPwzBe0jCOpEpl8rCOHKLGQ) [![Twitter Badge](https://img.shields.io/badge/-@gooshi_addu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gooshi_addu)](https://twitter.com/gooshi_addu) [![Instagram Badge](https://img.shields.io/badge/-@hyper_motard_950-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/hyper_motard_950)](https://instagram.com/hyper_motard_950) [![Linkedin Badge](https://img.shields.io/badge/-adeshnalpet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adesh-nalpet-a98392122/)](https://www.linkedin.com/in/adesh-nalpet-a98392122/)
-[![Gmail Badge](https://img.shields.io/badge/-390.adesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:390.adesh@gmail.com)](mailto:390.adesh@gmail.com)
+The aim of this repository is to report in GitHub contributions coming from other platforms.
 
+It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
 
-### Some of the projects I am building:
+## Notice
 
-- [Dropwizard](https://github.com/addu390?tab=repositories&q=dropwizard&type=&language=) - Java Dropwizard 📟 is alive
-- [The App Inventor](https://github.com/addu390/app-inventor-frontend) - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20" >  An application to build one!
-- <img src="https://pyblog.xyz/wp-content/uploads/2020/09/Myro_Final.png" width="40" > - [ My Robotic Arm](https://myro.in/?ref=github) - Myo Eletric Prosthetic Arm 🤖
-- [Artwork](https://pyblog.xyz/art-gallery/) - Pencil sketches pool
+The content of this repository contains mock code. This prevents private source code to be leaked. The number of commits, file names, the amount of code, and the commit dates might have been slightly altered in order to maintain privacy.
 
-### My Blog <img src="https://pyblog.xyz/wp-content/uploads/2018/03/logo.jpg" width="50" > #PYBLOGG - [pyblog.xyz](http://pyblog.xyz)
+Notice that the statistics coming from this repository are not in any way complete. Commits only come from other selected git repositories. This excludes projects that are maintained using other version control systems (VCS) and projects that have never been maintained using a VCS.
 
-- 🔭 I'm currently working at PhonePe, India
-- 📫 https://pyblog.xyz/contact/
+## Reasons
 
-### Featured Project
-- <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20" > App Inventor is a mobile application 📲 to build simple mobile applications
-didegmjear cfgvntbgma
-txpoucwuly jqfoaskikt pntmxrhtmj bbqlcyndkg hocfqajold fbdrfjfkcq
-nhbiykrmcy syfqmrcong
+GitHub shows contributions statistics of its users. There are [several reasons](https://github.com/isaacs/github/issues/627) why this feature could be debatable.
+
+Moreover, this mechanism only rewards developers that work in companies that host projects on GitHub.
+
+Considering the undeniably popularity of GitHub, developers that use other platforms are disadvantaged. In fact, it is increasing the number of developers that refer to their [GitHub contributions in resumes](https://github.com/resume/resume.github.com). Similarly, recruiters [may use GitHub to find talents](https://www.socialtalent.com/blog/recruitment/how-to-use-github-to-find-super-talented-developers).
+
+In more extreme cases, some developers decided to boycott this GitHub's lock-in system, and developed tools that can alter GitHub's contribution graph with fake commits: [Rockstar](https://github.com/avinassh/rockstar) and [Vanity text for GitHub](https://github.com/ihabunek/github-vanity) are good examples. 
+
+umvppvgfja aaiqwkxmlo wciegnjvoe hsrwhflutq
