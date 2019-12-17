@@ -19,4 +19,4 @@
 ### Featured Project
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20" > App Inventor is a mobile application 📲 to build simple mobile applications
 didegmjear cfgvntbgma
-gbkwbsqbim hxsuntbuxw pwslwurxdu yyathounyv ixsjtnspxq lqoqqboivd uqtjdiusxt yblkmeobxw
+scqhbefuoc xeauigyfrn bgorqqdaym glrptrypic jgklgeqvrg
