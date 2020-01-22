@@ -57,6 +57,6 @@ public class Cdcist {
         System.out.println("aspck");
         System.out.println("oxxyn");
         System.out.println("toauj");
-        System.out.println("kyynr");
+        System.out.println("suisr");
     }
 }
