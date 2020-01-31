@@ -55,6 +55,5 @@ public class Cdcist {
         System.out.println("idkkb");
         System.out.println("woiet");
         System.out.println("aspck");
-        System.out.println("pngig");
     }
 }
