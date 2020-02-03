@@ -9,7 +9,7 @@ public class Cdcist {
         System.out.println("xnoxn");
         System.out.println("ypbig");
         System.out.println("yvyln");
-        System.out.println("aqrel");
-        System.out.println("buoug");
+        System.out.println("gjcuq");
+        System.out.println("isnmm");
     }
 }
