@@ -53,7 +53,7 @@ public class Cdcist {
         System.out.println("rklci");
         System.out.println("cayve");
         System.out.println("idkkb");
-        System.out.println("woiet");
-        System.out.println("rmtds");
+        System.out.println("llexj");
+        System.out.println("kfoib");
     }
 }
