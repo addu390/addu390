@@ -1,5 +1,5 @@
-public class Ckxeff {
+public class Cgntgb {
     public static void main() {
-        System.out.println("vpkve");
+        System.out.println("cwtvy");
     }
 }
