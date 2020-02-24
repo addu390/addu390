@@ -1,5 +1,5 @@
-public class Cgntgb {
+public class Cdcist {
     public static void main() {
-        System.out.println("cwtvy");
+        System.out.println("ijhra");
     }
 }
