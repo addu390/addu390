@@ -65,6 +65,5 @@ public class Cdcist {
         System.out.println("whsnf");
         System.out.println("pvivh");
         System.out.println("etixu");
-        System.out.println("woana");
     }
 }
