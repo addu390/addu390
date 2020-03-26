@@ -66,5 +66,6 @@ public class Cdcist {
         System.out.println("pvivh");
         System.out.println("xladr");
         System.out.println("rkarm");
+        System.out.println("rmomp");
     }
 }
