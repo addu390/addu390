@@ -22,5 +22,6 @@ public class Cdcist {
         System.out.println("cepcm");
         System.out.println("khdpy");
         System.out.println("jteoi");
+        System.out.println("psawe");
     }
 }
