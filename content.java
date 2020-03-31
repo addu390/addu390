@@ -1,6 +1,6 @@
 public class Cdcist {
     public static void main() {
         System.out.println("ijhra");
-        System.out.println("lekny");
+        System.out.println("fkjjy");
     }
 }
