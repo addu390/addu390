@@ -23,6 +23,5 @@ public class Cdcist {
         System.out.println("khdpy");
         System.out.println("tgdgh");
         System.out.println("nvqqv");
-        System.out.println("jsmtt");
     }
 }
