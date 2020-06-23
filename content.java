@@ -29,6 +29,6 @@ public class Cdcist {
         System.out.println("gbara");
         System.out.println("bdvqm");
         System.out.println("bopam");
-        System.out.println("gxdnt");
+        System.out.println("omotw");
     }
 }
