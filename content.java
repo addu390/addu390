@@ -4,6 +4,6 @@ public class Cdcist {
         System.out.println("xtcsk");
         System.out.println("mopxc");
         System.out.println("tskxl");
-        System.out.println("ammsx");
+        System.out.println("wsjfh");
     }
 }
