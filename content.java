@@ -31,6 +31,5 @@ public class Cdcist {
         System.out.println("bopam");
         System.out.println("dhvth");
         System.out.println("hnejt");
-        System.out.println("hcrin");
     }
 }
