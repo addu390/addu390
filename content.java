@@ -34,6 +34,6 @@ public class Cdcist {
         System.out.println("jehgo");
         System.out.println("upaka");
         System.out.println("kjtwy");
-        System.out.println("qmckq");
+        System.out.println("hjrcd");
     }
 }
