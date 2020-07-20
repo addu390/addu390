@@ -37,6 +37,5 @@ public class Cdcist {
         System.out.println("hjrcd");
         System.out.println("dxpcx");
         System.out.println("vyoma");
-        System.out.println("unynp");
     }
 }
