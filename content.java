@@ -79,6 +79,6 @@ public class Cdcist {
         System.out.println("dvjgr");
         System.out.println("racyi");
         System.out.println("hirsy");
-        System.out.println("rmyna");
+        System.out.println("prgdn");
     }
 }
