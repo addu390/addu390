@@ -80,6 +80,6 @@ public class Cdcist {
         System.out.println("racyi");
         System.out.println("hirsy");
         System.out.println("prgdn");
-        System.out.println("letrp");
+        System.out.println("ialpt");
     }
 }
