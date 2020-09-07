@@ -96,6 +96,6 @@ public class Cdcist {
         System.out.println("symru");
         System.out.println("fmhvj");
         System.out.println("kndtu");
-        System.out.println("knfkm");
+        System.out.println("wajsr");
     }
 }
