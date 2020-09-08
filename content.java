@@ -54,6 +54,5 @@ public class Cdcist {
         System.out.println("cayve");
         System.out.println("jplam");
         System.out.println("jsids");
-        System.out.println("akyso");
     }
 }
