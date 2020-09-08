@@ -105,6 +105,5 @@ public class Cdcist {
         System.out.println("tpsas");
         System.out.println("ikego");
         System.out.println("iyxhu");
-        System.out.println("imuvf");
     }
 }
