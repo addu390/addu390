@@ -8,7 +8,7 @@
 
 - [Dropwizard](https://github.com/addu390?tab=repositories&q=dropwizard&type=&language=) - Java Dropwizard is alive
 - [The App Inventor](https://github.com/addu390/app-inventor-frontend) - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20"> An application to build one!  
-- [MYRO - My Robotic Arm](https://myro.in/?ref=github) - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/Myro_Final.png" width="40"> Myo Eletric Prosthetic Arm  
+- <img src="https://pyblog.xyz/wp-content/uploads/2020/09/Myro_Final.png" width="40"> [ - My Robotic Arm](https://myro.in/?ref=github) - Myo Eletric Prosthetic Arm  
 
 ### I am learning blog writings here - [pyblog.xyz](http://pyblog.xyz)
 
