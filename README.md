@@ -4,10 +4,17 @@
 [![Gmail Badge](https://img.shields.io/badge/-390.adesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:390.adesh@gmail.com)](mailto:390.adesh@gmail.com)
 
 
-### Some of the things I crafted or am crafting:
+### Some of the projects I am building:
 
 - [Dropwizard](https://github.com/addu390?tab=repositories&q=dropwizard&type=&language=) - Java Dropwizard is alive
-- [The App Inventor](https://github.com/addu390/app-inventor-frontend) - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="30" >  An application to build one!
+- [The App Inventor](https://github.com/addu390/app-inventor-frontend) - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20" >  An application to build one!
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/Myro_Final.png" width="40" > - [ My Robotic Arm](https://myro.in/?ref=github) - Myo Eletric Prosthetic Arm
 
-### I am learning blog writings here - [pyblog.xyz](http://pyblog.xyz)
+### My Blog #PYBLOGG - [pyblog.xyz](http://pyblog.xyz)
+
+- 🔭 I'm currently working at PhonePe, India
+- 📫 https://pyblog.xyz/contact/
+
+### Featured Project
+- <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20" > App Inventor is a mobile application to build simple mobile applications!
+- Have a look at the [screens](https://github.com/addu390/app-inventor-frontend/blob/master/README.md)
