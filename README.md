@@ -4,11 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-390.adesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:390.adesh@gmail.com)](mailto:390.adesh@gmail.com)
 
 
-### Some of the projects I am building:
+### Recent Projects:
 
-- [Dropwizard](https://github.com/addu390?tab=repositories&q=dropwizard&type=&language=) - Java Dropwizard 📟 is alive
+- [Django Blog](https://github.com/addu390/django-pyblog) - ElasticSearch + MySQL 🏆
 - [The App Inventor](https://github.com/addu390/app-inventor-frontend) - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20" >  An application to build one!
-- <img src="https://pyblog.xyz/wp-content/uploads/2020/09/Myro_Final.png" width="40" > - [ My Robotic Arm](https://myro.in/?ref=github) - Myo Eletric Prosthetic Arm 🤖
+- [Dropwizard](https://github.com/addu390?tab=repositories&q=dropwizard&type=&language=) - Java Dropwizard 📟 is alive
 - [Artwork](https://pyblog.xyz/art-gallery/) - Pencil sketches pool 🖌
 
 ### My Blog <img src="https://pyblog.xyz/wp-content/uploads/2018/03/logo.jpg" width="50" > #PYBLOGG - [pyblog.xyz](http://pyblog.xyz)
@@ -22,4 +22,5 @@
 
 ### IC Project
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/ribbn_newlogo2x.png" width="70" > [Ribbn - Uber for Ambulance](http://www.ribbn.in/homepage)
+- <img src="https://pyblog.xyz/wp-content/uploads/2020/09/Myro_Final.png" width="40" > - [ My Robotic Arm](https://myro.in/?ref=github) - Myo Eletric Prosthetic Arm 🤖
 
