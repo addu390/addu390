@@ -20,7 +20,7 @@
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20" > App Inventor is a mobile application 📲 to build simple mobile applications
 - Have a look at the 🖥 [screens](https://github.com/addu390/app-inventor-frontend/blob/master/README.md)
 
-### IC Project
+### IC Projects
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/ribbn_newlogo2x.png" width="70" > [Ribbn - Uber for Ambulance](http://www.ribbn.in/homepage)
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/Myro_Final.png" width="40" > - [ My Robotic Arm](https://myro.in/?ref=github) - Myo Eletric Prosthetic Arm 🤖
 
