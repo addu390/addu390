@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-390.adesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:390.adesh@gmail.com)](mailto:390.adesh@gmail.com)
 
 
-### Recent Projects:
+### Recent Projects
 
 - [Django Blog](https://github.com/addu390/django-pyblog) - ElasticSearch + MySQL 🏆
 - [The App Inventor](https://github.com/addu390/app-inventor-frontend) - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20" >  An application to build one!
