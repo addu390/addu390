@@ -13,6 +13,20 @@
 ### My Blog <img src="https://pyblog.xyz/wp-content/uploads/2018/03/logo.jpg" width="50" > #PYBLOGG - [pyblog.xyz](http://pyblog.xyz)
 - 🔭 I'm currently working at PhonePe, India
 - 📫 https://pyblog.xyz/contact/
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&hide=TeX&layout=compact" align="right">
+
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![ES](https://img.shields.io/badge/-ES-black?logo=elasticsearch&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apache%20kafka&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon%20aws&style=social)&nbsp;&nbsp;
+![Django](https://img.shields.io/badge/-Django-black?logo=django&style=social)&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/-Dropwizard-black?logo=spring&style=social)&nbsp;&nbsp;
+![Ionic](https://img.shields.io/badge/-Ionic-black?logo=ionic&style=social)&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
 
 ### Featured Project
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20" > App Inventor is a mobile application 📲 to build simple mobile applications
@@ -21,20 +35,3 @@
 ### IC Projects
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/ribbn_newlogo2x.png" width="70" > [Ribbn - Uber for Ambulance](http://www.ribbn.in/homepage)
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/Myro_Final.png" width="40" > - [ My Robotic Arm](https://myro.in/?ref=github) - Myo Electric Prosthetic Arm 🤖
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&hide=TeX&layout=compact)
-
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![ES](https://img.shields.io/badge/-ElasticSearch-black?logo=elasticsearch&style=social)&nbsp;&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
-
-![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apache%20kafka&style=social)&nbsp;&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon%20aws&style=social)&nbsp;&nbsp;
-![Django](https://img.shields.io/badge/-Django-black?logo=django&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
-![Ionic](https://img.shields.io/badge/-Ionic-black?logo=ionic&style=social)&nbsp;&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
-
