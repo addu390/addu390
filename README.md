@@ -27,11 +27,11 @@
 ![Ionic](https://img.shields.io/badge/-Ionic-black?logo=ionic&style=social)&nbsp;&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&hide=TeX&layout=compact" align="right">
-
 ### Featured Project
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20" > App Inventor is a mobile application 📲 to build simple mobile applications
 - Have a look at the 🖥 [screens](https://github.com/addu390/app-inventor-frontend/blob/master/README.md)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&hide=TeX&layout=compact" align="right">
 
 ### IC Projects
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/ribbn_newlogo2x.png" width="70" > [Ribbn - Uber for Ambulance](http://www.ribbn.in/homepage)
