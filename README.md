@@ -14,8 +14,6 @@
 - 🔭 I'm currently working at PhonePe, India
 - 📫 https://pyblog.xyz/contact/
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&hide=TeX&layout=compact" align="right">
-
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![ES](https://img.shields.io/badge/-ES-black?logo=elasticsearch&style=social)&nbsp;&nbsp;
@@ -28,6 +26,8 @@
 ![Spring](https://img.shields.io/badge/-Dropwizard-black?logo=spring&style=social)&nbsp;&nbsp;
 ![Ionic](https://img.shields.io/badge/-Ionic-black?logo=ionic&style=social)&nbsp;&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&hide=TeX&layout=compact" align="right">
 
 ### Featured Project
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20" > App Inventor is a mobile application 📲 to build simple mobile applications
