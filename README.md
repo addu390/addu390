@@ -8,7 +8,7 @@
 
 ### Recent Projects
 
-- [Django Blog](https://github.com/addu390/django-pyblog) - ElasticSearch + MySQL 🏆
+- [Django Blog](https://github.com/addu390/django-pyblog) - ElasticSearch + MySQL + Redis 🏆
 - [The App Inventor](https://github.com/addu390/app-inventor-frontend) - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/icon.png" width="20" >  An application to build one!
 - [Dropwizard](https://github.com/addu390?tab=repositories&q=dropwizard&type=&language=) - Java Dropwizard 📟 is alive
 - [Artwork](https://pyblog.xyz/art-gallery/) - Pencil sketches pool 🖌
