@@ -16,11 +16,12 @@
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![ES](https://img.shields.io/badge/-ES-black?logo=elasticsearch&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![ES](https://img.shields.io/badge/-ES-black?logo=elasticsearch&style=social)&nbsp;&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apache%20kafka&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?logo=tensorflow&style=social)&nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon%20aws&style=social)&nbsp;&nbsp;
 ![Django](https://img.shields.io/badge/-Django-black?logo=django&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Dropwizard-black?logo=spring&style=social)&nbsp;&nbsp;
