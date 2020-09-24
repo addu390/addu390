@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-390.adesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:390.adesh@gmail.com)](mailto:390.adesh@gmail.com) ![](https://visitor-badge.glitch.me/badge?page_id=addu390.addu390)
 
 #### Recent Projects
-- [Django Blog](https://github.com/addu390/django-pyblog) - ElasticSearch + MySQL + Redis 🏆
+- [Django Blog](https://github.com/addu390/django-pyblog) - ElasticSearch + MySQL + Redis 🏆 [Django Kafka](https://github.com/addu390/django-pyblog)
 - [Dropwizard](https://github.com/addu390?tab=repositories&q=dropwizard&type=&language=) - Java Dropwizard 📟 is alive
 - [Artwork](https://pyblog.xyz/art-gallery/) - Pencil sketches pool 🖌
 
