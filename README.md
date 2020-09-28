@@ -1,4 +1,4 @@
-## ನಮಸ್ಕಾರ (Namaste), I am [Adesh Nalpet](http://pyblog.xyz/?ref=github)
+## ನಮಸ್ಕಾರ (Namaste), I am [Adesh Nalpet](https://addu390.github.io/)
 
 <img src="https://pyblog.xyz/wp-content/uploads/2020/09/earth.jpg" align="right">
 
