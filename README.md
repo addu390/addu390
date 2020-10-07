@@ -8,7 +8,7 @@
 #### Recent Projects
 - [Django Blog](https://github.com/addu390/django-pyblog) - ElasticSearch + MySQL + Redis 🏆 [Django Kafka](https://github.com/addu390/django-kafka)
 - Java [Dropwizard](https://github.com/addu390?tab=repositories&q=dropwizard&type=&language=) 📟 is alive 🏆 [LaaS](https://github.com/addu390/licensing-as-a-platform) 🏆 [python-logging-kafka](https://github.com/addu390/python-logging-kafka)
-- [Artwork](https://pyblog.xyz/art-gallery/) - Pencil sketches pool 🖌
+- [Artwork](https://pyblog.xyz/art-gallery/) - Pencil sketches pool 🖌 [The Next Big Project](https://thenextbigproject)
 
 #### My Blog <img src="https://pyblog.xyz/wp-content/uploads/2018/03/logo.png" width="50" > #PYBLOGG - [pyblog.xyz](http://pyblog.xyz)
 - 🔭 I'm currently working at PhonePe, India
