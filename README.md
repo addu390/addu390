@@ -27,5 +27,4 @@
 #### IC Projects
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/ribbn_newlogo2x.png" width="70" > [Ribbn - Uber for Ambulance](http://www.ribbn.in/homepage)
 - <img src="https://pyblog.xyz/wp-content/uploads/2020/09/Myro_Final.png" width="40" > - [ My Robotic Arm](https://myro.in/?ref=github) - Myo Electric Prosthetic Arm 🤖
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&hide=TeX&layout=compact" align="right">
-<img src="https://pyblog.xyz/wp-content/uploads/2020/09/unnamed.jpg" width="200" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&hide=TeX&layout=compact" align="left">
