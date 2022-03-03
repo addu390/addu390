@@ -1,4 +1,4 @@
-# ನಮಸ್ಕಾರ (Namaste), I am [Adesh Nalpet Adimurthy](https://www.linkedin.com/in/adesh-nalpet-adimurthy/)
+# ನಮಸ್ಕಾರ (Namaste), I am Adesh Nalpet Adimurthy
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&layout=compact&hide=scss,html,css&theme=swift" align="left">
 
