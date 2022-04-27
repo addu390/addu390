@@ -2,8 +2,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&hide=scss,html,css&theme=swift&border_radius=0&bg_color=fff&border_color=000" align="left">
 
-| 📍 For Hire | 🗺 Anywhere in Canada | 📮 [Resume](https://pyblog.xyz/about) |
+| For Hire: | Anywhere in Canada &nbsp;🇨🇦 | [About me](https://pyblog.xyz/about) |
 |-|-|-|
+| Featured: | [World Population Cartogram](https://www.pyblog.xyz/population-cartogram/) | [Hybrid Spatial Index](https://www.pyblog.xyz/hybrid-spatial-index-conclusion) |
 
 |   | Check it out &nbsp;🚀  |
 | ------------- | ------------- |
