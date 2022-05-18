@@ -17,7 +17,7 @@ svg {
 #gh-dark-mode-only:target #background {
   fill: #0d1117;
   stroke: #30363d;
-  stroke-width: 0.3px;
+  stroke-width: 0.5px;
 }
 
 foreignObject {
