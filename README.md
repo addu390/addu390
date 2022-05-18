@@ -1,6 +1,9 @@
 # ನಮಸ್ಕಾರ (Namaste), I am Adesh Nalpet Adimurthy
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&hide=scss,html,css&theme=swift&border_radius=0&bg_color=fff&border_color=000" align="left">
+<img src="https://raw.githubusercontent.com/addu390/addu390/master/languages.svg#gh-dark-mode-only" align="left">
+<img src="https://raw.githubusercontent.com/addu390/addu390/master/languages.svg#gh-light-mode-only" align="left">
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addu390&hide=scss,html,css&theme=swift&border_radius=0&bg_color=fff&border_color=000" align="left"> -->
 
 | For Hire: | Anywhere in Canada &nbsp;🇨🇦 | [About me](https://pyblog.xyz/about) |
 |-|-|-|
