@@ -5,7 +5,7 @@
 
 | For Hire: | Anywhere in Canada &nbsp;🇨🇦 | [About me](https://pyblog.xyz/about) |
 |-|-|-|
-| Featured: | [Population Cartogram](https://www.pyblog.xyz/population-cartogram/) | [Hybrid Spatial Index](https://www.pyblog.xyz/hybrid-spatial-index-conclusion) |
+| Featured: | [Population Cartogram](https://owid.github.io/cartograms/) | [Hybrid Spatial Index](https://www.pyblog.xyz/hybrid-spatial-index-conclusion) |
 
 |   | Check it out &nbsp;🚀  |
 | ------------- | ------------- |
