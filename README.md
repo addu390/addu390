@@ -1,6 +1,1 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/addu390/addu390/master/languages.svg#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/addu390/addu390/master/technologies.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/addu390/addu390/master/languages.svg#gh-light-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/addu390/addu390/master/technologies.svg#gh-light-mode-only">
-</div>
-
-
+🍥
